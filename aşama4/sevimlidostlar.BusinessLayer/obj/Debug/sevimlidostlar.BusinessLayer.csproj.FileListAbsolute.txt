@@ -1,0 +1,17 @@
+C:\Users\Monster\source\repos\YeniWebOdev\sevimlidostlar.BusinessLayer\bin\Debug\sevimlidostlar.BusinessLayer.dll.config
+C:\Users\Monster\source\repos\YeniWebOdev\sevimlidostlar.BusinessLayer\bin\Debug\sevimlidostlar.BusinessLayer.dll
+C:\Users\Monster\source\repos\YeniWebOdev\sevimlidostlar.BusinessLayer\bin\Debug\sevimlidostlar.BusinessLayer.pdb
+C:\Users\Monster\source\repos\YeniWebOdev\sevimlidostlar.BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Monster\source\repos\YeniWebOdev\sevimlidostlar.BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Monster\source\repos\YeniWebOdev\sevimlidostlar.BusinessLayer\bin\Debug\sevimlidostlar.dataAccessLayer.dll
+C:\Users\Monster\source\repos\YeniWebOdev\sevimlidostlar.BusinessLayer\bin\Debug\sevimlidostlar.Entities.dll
+C:\Users\Monster\source\repos\YeniWebOdev\sevimlidostlar.BusinessLayer\bin\Debug\sevimlidostlar.dataAccessLayer.pdb
+C:\Users\Monster\source\repos\YeniWebOdev\sevimlidostlar.BusinessLayer\bin\Debug\sevimlidostlar.dataAccessLayer.dll.config
+C:\Users\Monster\source\repos\YeniWebOdev\sevimlidostlar.BusinessLayer\bin\Debug\sevimlidostlar.Entities.pdb
+C:\Users\Monster\source\repos\YeniWebOdev\sevimlidostlar.BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Monster\source\repos\YeniWebOdev\sevimlidostlar.BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Monster\source\repos\YeniWebOdev\sevimlidostlar.BusinessLayer\obj\Debug\sevimlidostlar.BusinessLayer.csprojAssemblyReference.cache
+C:\Users\Monster\source\repos\YeniWebOdev\sevimlidostlar.BusinessLayer\obj\Debug\sevimlidostlar.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\YeniWebOdev\sevimlidostlar.BusinessLayer\obj\Debug\sevimlidostlar.BusinessLayer.csproj.CopyComplete
+C:\Users\Monster\source\repos\YeniWebOdev\sevimlidostlar.BusinessLayer\obj\Debug\sevimlidostlar.BusinessLayer.dll
+C:\Users\Monster\source\repos\YeniWebOdev\sevimlidostlar.BusinessLayer\obj\Debug\sevimlidostlar.BusinessLayer.pdb
