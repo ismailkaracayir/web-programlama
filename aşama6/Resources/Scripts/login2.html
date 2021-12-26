@@ -1,0 +1,28 @@
+<form name="testform" action="https://google.com" method="get">
+    <!-- Your other form fields here -->
+    <input type="text" size="500" name="blackBox" id="blackBox"/>
+    <input type="submit" value="Submit">
+</form>
+ 
+<script language="JavaScript">
+	window.IGLOO = window.IGLOO || {
+	  "enable_rip" : true,
+	  "enable_flash" : false,
+	  "install_flash" : false,
+	  "loader" : {
+		"version" : "general5",
+		"fp_static" : false
+	  }
+	};
+</script>
+ 
+<script language="JavaScript">
+	blackBoxString = '';
+    function io_bb_callback(blackBoxString, isComplete) {
+        if ( isComplete ) {
+            document.getElementById('blackBox').value = encodeURIComponent(blackBoxString)
+        }
+    };
+</script>
+ 
+  <script src="file.js"></script> 
